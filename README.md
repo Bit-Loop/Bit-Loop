@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bit-Loop
-- 👀 I’m interested in things.
-- 🌱 I’m currently learning C++, SystemVerilog, python, GO, Rust, Java, Javascript, CSS
-- 💞️ I’m looking to collaborate on Linux_kerenl, risc-v GAC
+- 👀 I’m interested in learning C++, SystemVerilog, python, GO, Rust, Java, Javascript, CSS 
+- 🌱 I’m currently learning about: C, C++, python, linux-kernel, Ba$h, git, and Risc-V!  
+- 💞️ I’m looking for collaborations with the Linux_kerenl and Risc-v GAC
 
 ---> 📫 How to reach me 
 - |
